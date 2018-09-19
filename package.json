@@ -29,7 +29,7 @@
     "systemjs": "0.19.27",
     "zone.js": "^0.6.23",
     "angular2-in-memory-web-api": "0.0.20",
-    "bootstrap": "^3.3.6"
+    "bootstrap": "^4.0.0"
   },
   "devDependencies": {
     "bootstrap-sass": "^4.0.0",
